@@ -16,6 +16,7 @@
 	"author": "Phil",
 	"license": "ISC",
 	"dependencies": {
+		"body-parser": "^1.20.3",
 		"express": "^4.19.2",
 		"inversify": "^6.2.0",
 		"reflect-metadata": "^0.2.2",
